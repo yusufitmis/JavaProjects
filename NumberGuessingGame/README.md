@@ -9,7 +9,8 @@ Kendimi geliştirmek için Java ile Sayı Tahmin Oyunu Geliştirdim.<br><br>
 •Kullanıcı bu sayıyı kaç adımda bilmek isteyeceğini kendi belirleycek.<br>
 •Kullanıcı oyun sonunda puanını görebilecek. <br>
 •Doğru bilene kadar tahminde bulunduğu her el için puan/hak kadar puanı eksilecek. <br>
-•Hakkı bitene kadar bilemezse puanı sıfır olacak
+•Hakkı bitene kadar bilemezse puanı sıfır olacak<br><br>
+**NOT:** Uygulamanın kodları src klasörünün altındadır.
 
 
 
